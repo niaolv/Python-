@@ -1,7 +1,7 @@
-from traceback import print_tb
+
 
 import requests,time
-from IPython.core.release import author
+
 
 from lxml import etree
 
